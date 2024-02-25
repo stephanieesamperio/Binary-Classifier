@@ -1,4 +1,5 @@
-# Binary Classifier
+# Deep Learning Challenge: Binary Classifier
+by: stephanie samperio
 
 Background:
 
