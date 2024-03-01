@@ -30,7 +30,7 @@ ASK_AMT—Funding amount requested
 IS_SUCCESSFUL—Was the money used effectively
 
 
-#Report
+# Report
 Deep Learning Project
 
 Stephanie Samperio
