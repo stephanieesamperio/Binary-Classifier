@@ -47,7 +47,7 @@ The purpose of the analysis was to clean it and remove unnecessary information s
 
 COMPILING, TRAINING, AND EVALUATING MODEL
 
-It took 2 layers for my neural network and layer 1 increased by 21 while the second one increased by 15 The amount of layers allowed me to reach my target model performance and increasing the cut off of my bins such as 'NAME'.
+It took 2 layers for my neural network. Layer 1 with 8 while the second one had 5 The amount of layers did not allow me to reach my target model performance, increasing the cut off of my bins such as 'NAME' and adding 21 to layer 1 and 15 to layer 2 i was able to reach my desired accuracy.
 
 RESULTS
 
